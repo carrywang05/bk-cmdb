@@ -10,7 +10,7 @@
  * limitations under the License.
  */
 
-// test commit author from carry
+// test commit author from carry2
 package auth
 
 import (
